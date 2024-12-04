@@ -2,6 +2,7 @@ import mlflow
 from sklearn.preprocessing import MinMaxScaler
 import numpy as np
 import pandas as pd
+import os
 
 class Model():
     def __init__(self,pp_object):
@@ -17,11 +18,18 @@ class Model():
 
     def load_models_mlflow(self):
         try:
-            model_sample_lstm = mlflow.pyfunc.load_model('runs:/14b9b7667e334083b36e762dff556afc/model_2024-12-02_03-31-27')
-            model_lstm_bidirecional = mlflow.pyfunc.load_model('runs:/3a14b4cd0e1b402393a70e1e2c1ec2b8/model_2024-12-02_15-34-58')
-            model_lstm_attention = mlflow.pyfunc.load_model('runs:/14cbf1997d4542c3949793474baabbec/model_2024-12-02_17-42-17')
-            model_lstm_cnn = mlflow.pyfunc.load_model('runs:/3c5ddac6f1204aba9241a6d5faf5b68d/model_2024-12-02_18-48-34')
-            model_lstm_bi_atten_cnn = mlflow.pyfunc.load_model('runs:/11f651a402524ba59e196de9ac9eec80/model_2024-12-02_19-57-04')
+            script_directory = os.path.dirname(os.path.abspath(__file__))
+            model_path1 = script_directory.rstrip("/models") + "/mlruns/0/14b9b7667e334083b36e762dff556afc/artifacts/model_2024-12-02_03-31-27"
+            model_path2 = script_directory.rstrip("/models") + "/mlruns/0/3a14b4cd0e1b402393a70e1e2c1ec2b8/artifacts/model_2024-12-02_15-34-58"
+            model_path3 = script_directory.rstrip("/models") + "/mlruns/0/14cbf1997d4542c3949793474baabbec/artifacts/model_2024-12-02_17-42-17"
+            model_path4 = script_directory.rstrip("/models") + "/mlruns/0/3c5ddac6f1204aba9241a6d5faf5b68d/artifacts/model_2024-12-02_18-48-34"
+            model_path5 = script_directory.rstrip("/models") + "/mlruns/0/11f651a402524ba59e196de9ac9eec80/artifacts/model_2024-12-02_19-57-04"
+
+            model_sample_lstm = mlflow.pyfunc.load_model(model_path1)
+            model_lstm_bidirecional = mlflow.pyfunc.load_model(model_path2)
+            model_lstm_attention = mlflow.pyfunc.load_model(model_path3)
+            model_lstm_cnn = mlflow.pyfunc.load_model(model_path4)
+            model_lstm_bi_atten_cnn = mlflow.pyfunc.load_model(model_path5)
             self.array_models = [model_sample_lstm,
                                 model_lstm_bidirecional,
                                 model_lstm_attention,
