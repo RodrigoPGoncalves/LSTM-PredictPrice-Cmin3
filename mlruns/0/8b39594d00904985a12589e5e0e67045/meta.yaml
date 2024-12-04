@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/%C3%81rea%20de%20Trabalho/04/LSTM-PredictPrice-KLBN4/mlruns/0/8b39594d00904985a12589e5e0e67045/artifacts
+end_time: 1733176306039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b39594d00904985a12589e5e0e67045
+run_name: angry-lynx-362
+run_uuid: 8b39594d00904985a12589e5e0e67045
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733176264445
+status: 3
+tags: []
+user_id: rodrigo

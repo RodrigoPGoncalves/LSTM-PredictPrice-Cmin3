@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/%C3%81rea%20de%20Trabalho/04/LSTM-PredictPrice-KLBN4/mlruns/0/ae671da40ed3462983eee5e3e1b9f9cf/artifacts
+end_time: 1733176727819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae671da40ed3462983eee5e3e1b9f9cf
+run_name: clean-lark-88
+run_uuid: ae671da40ed3462983eee5e3e1b9f9cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733176669621
+status: 3
+tags: []
+user_id: rodrigo

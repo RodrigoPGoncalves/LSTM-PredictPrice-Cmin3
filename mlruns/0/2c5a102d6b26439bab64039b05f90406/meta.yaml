@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/%C3%81rea%20de%20Trabalho/04/LSTM-PredictPrice-KLBN4/mlruns/0/2c5a102d6b26439bab64039b05f90406/artifacts
+end_time: 1733176018795
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c5a102d6b26439bab64039b05f90406
+run_name: thoughtful-tern-616
+run_uuid: 2c5a102d6b26439bab64039b05f90406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733175961663
+status: 3
+tags: []
+user_id: rodrigo

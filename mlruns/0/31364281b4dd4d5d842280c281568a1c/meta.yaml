@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/%C3%81rea%20de%20Trabalho/04/LSTM-PredictPrice-KLBN4/mlruns/0/31364281b4dd4d5d842280c281568a1c/artifacts
+end_time: 1733166272499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31364281b4dd4d5d842280c281568a1c
+run_name: clean-crow-856
+run_uuid: 31364281b4dd4d5d842280c281568a1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733166167836
+status: 3
+tags: []
+user_id: rodrigo

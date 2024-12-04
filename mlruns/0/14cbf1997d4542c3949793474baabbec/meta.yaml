@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/%C3%81rea%20de%20Trabalho/04/LSTM-PredictPrice-KLBN4/mlruns/0/14cbf1997d4542c3949793474baabbec/artifacts
+end_time: 1733172184171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14cbf1997d4542c3949793474baabbec
+run_name: beautiful-cub-154
+run_uuid: 14cbf1997d4542c3949793474baabbec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733172137720
+status: 3
+tags: []
+user_id: rodrigo

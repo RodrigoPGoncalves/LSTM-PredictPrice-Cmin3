@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/%C3%81rea%20de%20Trabalho/04/LSTM-PredictPrice-KLBN4/mlruns/0/5ffa91f73b8443808107aaa47481f193/artifacts
+end_time: 1733180622895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ffa91f73b8443808107aaa47481f193
+run_name: worried-frog-683
+run_uuid: 5ffa91f73b8443808107aaa47481f193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733180474305
+status: 3
+tags: []
+user_id: rodrigo

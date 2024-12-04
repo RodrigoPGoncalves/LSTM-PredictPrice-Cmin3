@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/%C3%81rea%20de%20Trabalho/04/LSTM-PredictPrice-KLBN4/mlruns/0/583e792a05c44d8aa69f4e841df688a9/artifacts
+end_time: 1733176200844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 583e792a05c44d8aa69f4e841df688a9
+run_name: smiling-carp-619
+run_uuid: 583e792a05c44d8aa69f4e841df688a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733176158805
+status: 3
+tags: []
+user_id: rodrigo

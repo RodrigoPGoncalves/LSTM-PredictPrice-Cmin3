@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/%C3%81rea%20de%20Trabalho/04/LSTM-PredictPrice-KLBN4/mlruns/0/f408d2447d764e5398ca834d941e1869/artifacts
+end_time: 1733176363290
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f408d2447d764e5398ca834d941e1869
+run_name: sassy-chimp-54
+run_uuid: f408d2447d764e5398ca834d941e1869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733176307227
+status: 3
+tags: []
+user_id: rodrigo

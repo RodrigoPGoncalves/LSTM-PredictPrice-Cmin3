@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/%C3%81rea%20de%20Trabalho/04/LSTM-PredictPrice-KLBN4/mlruns/0/079c679d461944dcb3a36008c6776abd/artifacts
+end_time: 1733180853124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 079c679d461944dcb3a36008c6776abd
+run_name: delicate-squirrel-95
+run_uuid: 079c679d461944dcb3a36008c6776abd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733180756992
+status: 3
+tags: []
+user_id: rodrigo

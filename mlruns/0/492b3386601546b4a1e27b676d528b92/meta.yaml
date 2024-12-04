@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/%C3%81rea%20de%20Trabalho/04/LSTM-PredictPrice-KLBN4/mlruns/0/492b3386601546b4a1e27b676d528b92/artifacts
+end_time: 1733172297886
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 492b3386601546b4a1e27b676d528b92
+run_name: bittersweet-stag-825
+run_uuid: 492b3386601546b4a1e27b676d528b92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733172228295
+status: 3
+tags: []
+user_id: rodrigo

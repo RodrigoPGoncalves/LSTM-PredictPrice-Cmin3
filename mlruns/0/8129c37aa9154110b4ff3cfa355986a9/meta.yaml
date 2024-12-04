@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/%C3%81rea%20de%20Trabalho/04/LSTM-PredictPrice-KLBN4/mlruns/0/8129c37aa9154110b4ff3cfa355986a9/artifacts
+end_time: 1733181787191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8129c37aa9154110b4ff3cfa355986a9
+run_name: abundant-shark-502
+run_uuid: 8129c37aa9154110b4ff3cfa355986a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733181653335
+status: 3
+tags: []
+user_id: rodrigo

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rodrigo/%C3%81rea%20de%20Trabalho/04/LSTM-PredictPrice-KLBN4/mlruns/0/2f082c4a2f09480aa38b21020a81d2e5/artifacts
+end_time: 1733181129897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f082c4a2f09480aa38b21020a81d2e5
+run_name: smiling-sow-895
+run_uuid: 2f082c4a2f09480aa38b21020a81d2e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733180972634
+status: 3
+tags: []
+user_id: rodrigo
